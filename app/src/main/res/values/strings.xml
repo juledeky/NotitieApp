@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notitie App</string>
+    <string name="new_note">Add new note</string>
+    <string name="edit_note">Edit existing note</string>
+    <string name="list_of_notes">List of existing notes</string>
+    <string name="delete_note">Delete this note permanently</string>
+    <string name="save_note">Save the changes made to this note</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+</resources>
